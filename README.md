@@ -14,4 +14,4 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 '''sudo groupadd devops'''
 
-![alt text] (as1)
+![alt text] (as1.JPG)
