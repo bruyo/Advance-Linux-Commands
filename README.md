@@ -79,4 +79,16 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 ![alt text](as6.JPG)
 
+## Verification of group membership
+
+'sudo id mary'
+
+'sudo id mohammed'
+
+'sudo id ravi'
+
+'sudo id tunji'
+
+'sudo id sofia'
+
 ![alt text](as8.JPG)
