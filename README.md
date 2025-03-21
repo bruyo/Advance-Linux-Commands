@@ -38,17 +38,18 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 ## Assigning the users to the devops group
 
-'sudo chown :devops mary'
+'sudo usermod -aG devops mary'
 
-'sudo chown :devops mohammed'
+'sudo usermod -aG devops mohammed'
 
-'sudo chown :devops ravi'
+'sudo usermod -aG devops ravi'
 
-'sudo chown :devops tunji'
+'sudo usermod -aG devops tunji'
 
-'sudo chown :devops sofia'
+'sudo usermod -aG devops sofia'
 
-![alt text](as6.JPG)
+![alt text](as7.JPG)
+
 
 ## Stage 3: Create 5 folders for each Users in the home directory
 
@@ -62,6 +63,20 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 'sudo mkdir sofia'
 
-![alt text](as7.JPG)
+![alt text](as9.JPG)
+
+## Stage 4: Assign 5 folders ownership to the devops group
+
+'sudo chown :devops mary'
+
+'sudo chown :devops mohammed'
+
+'sudo chown :devops ravi'
+
+'sudo chown :devops tunji'
+
+'sudo chown :devops sofia'
+
+![alt text](as6.JPG)
 
 ![alt text](as8.JPG)
