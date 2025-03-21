@@ -15,3 +15,5 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 '''sudo groupadd devops'''
 
 ![alt text](as1.JPG)
+
+## Stage 2: Create a group server called "devops"
