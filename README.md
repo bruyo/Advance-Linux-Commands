@@ -81,14 +81,14 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 ## Verification of group membership
 
-'sudo id mary'
+'id mary'
 
-'sudo id mohammed'
+'id mohammed'
 
-'sudo id ravi'
+'id ravi'
 
-'sudo id tunji'
+'id tunji'
 
-'sudo id sofia'
+'id sofia'
 
 ![alt text](as8.JPG)
