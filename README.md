@@ -14,7 +14,7 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 'sudo groupadd devops'
 
-![alt text](as1.JPG)
+![alt text](/as1.JPG)
 
 ## Stage 2: Create 5 Users ["mary", "mohammed", "ravi", "tunji" and "sofia"] and assigned to the devops group.
 
@@ -28,13 +28,13 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 'sudo adduser sofia'
 
-![alt text](as2.JPG)
+![alt text](/as2.JPG)
 
-![alt text](as3.JPG)
+![alt text](/as3.JPG)
 
-![alt text](as4.JPG)
+![alt text](/as4.JPG)
 
-![alt text](as5.JPG)
+![alt text](/as5.JPG)
 
 ## Assigning the users to the devops group
 
@@ -48,7 +48,7 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 'sudo usermod -aG devops sofia'
 
-![alt text](as7.JPG)
+![alt text](/as7.JPG)
 
 
 ## Stage 3: Create 5 folders for each Users in the home directory
@@ -77,7 +77,7 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 'sudo chown :devops sofia'
 
-![alt text](as6.JPG)
+![alt text](/as6.JPG)
 
 ## Verification of group membership
 
@@ -91,4 +91,4 @@ In Linux, file permission and ownership controls who can access, manipulate and 
 
 'id sofia'
 
-![alt text](as8.JPG)
+![alt text](/as8.JPG)
